@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+April 6, 2018
 
 ### Student Name:  
-(First and Last Name)
+Daysi Chavarria
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This assignment was an introduction to jQuery syntax and its uses - making it simpiler to use JavaScript. 
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://dmc16b.github.io/lesson7_jquery/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Some of the uses for jQuery include finding elements in an HTML document, changing HTML elements, and listening to what a user does in order to respond to those actions.
+2. CSS syntax is used to select elements in jQuery.
+3. Moving up and down the DOM tree elements in an HTML page is called traversing and can be a useful way of manipulating and modifying HTML elements.
 
